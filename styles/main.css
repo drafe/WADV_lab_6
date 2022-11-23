@@ -2,6 +2,16 @@
     display: flex;
 }
 
+ul {
+    list-style-type: none;
+    max-height: 600px;
+    overflow-y: scroll
+}
+
+li {
+    /*height: ;*/
+    /*line-height: 30px;*/
+}
 .aside{
     flex-grow: 0.3;
 }
